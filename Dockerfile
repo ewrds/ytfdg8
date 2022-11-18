@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="1da46c16-fe51-4a06-af3d-85d310f4b24a"
+ARG AUUID="df5b22d1-4413-420d-a0e7-6e995404a57f"
 ARG CADDYIndexPage="https://github.com/Externalizable/bongo.cat/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
