@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="d6d14453-7f1b-4733-b8e2-65e364ebd8b3"
-ARG CADDYIndexPage="https://github.com/wulabing/3DCEList/archive/master.zip"
+ARG AUUID="1da46c16-fe51-4a06-af3d-85d310f4b24a"
+ARG CADDYIndexPage="https://github.com/Externalizable/bongo.cat/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
